@@ -16,7 +16,6 @@ public class testRandom {
 		{
 		  randomNum = rand.nextInt(2);
 	 	  System.out.println(randomNum);
-	 	  System.out.println("This is under version control");
 		}
 	}
 
