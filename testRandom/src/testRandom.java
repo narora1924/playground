@@ -16,6 +16,7 @@ public class testRandom {
 		{
 		  randomNum = rand.nextInt(2);
 	 	  System.out.println(randomNum);
+	 	  //This is my second change
 		}
 	}
 
